@@ -239,3 +239,6 @@ This repository serves as the official landing page for Kingdom. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kingdom today!**
+
+---
+**Last updated:** 2026-09-12 15:54:39 UTC
