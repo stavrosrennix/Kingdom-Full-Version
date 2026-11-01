@@ -241,4 +241,4 @@ This repository serves as the official landing page for Kingdom. The software is
 **Get the most recent version of Kingdom today!**
 
 ---
-**Last updated:** 2026-11-01 06:57:00 UTC
+**Last updated:** 2026-11-01 13:57:07 UTC
